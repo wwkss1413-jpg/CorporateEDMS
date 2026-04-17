@@ -62,6 +62,6 @@
             </plugin>
         </plugins>
     </build>
-    <!-- CHANGE FROM MAIN -->
+    <!-- CHANGE FROM FEATURE/USER -->
 
 </project>
