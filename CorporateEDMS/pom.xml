@@ -62,4 +62,6 @@
             </plugin>
         </plugins>
     </build>
+    <!-- CHANGE FROM MAIN -->
+
 </project>
